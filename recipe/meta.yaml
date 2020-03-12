@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/matt002/{{ name }}/archive/{{ version }}.tar.gz
-  sha256: 3b0001220a2f1f19df638b3e26f9ab6838104decbf2dabf303aa71d6cdd29c42
+  sha256: aee5b18a257a37f6a68fd14c1ef55fb784fe0e73d31782a9080c9611557fd5b2
 
 build:
   noarch: python
